@@ -1,0 +1,18 @@
+body {
+  background: url('./bg.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mood {
+  display: flex;
+}
+h3 {
+  color: yellow;
+}
+i {
+  color: wheat;
+}
+h1 {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
